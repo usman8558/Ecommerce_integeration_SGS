@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+*.egg-info
+*.swp
+tags
+ecommerce_integrations/docs/current
+
+.aider*
+.helix
